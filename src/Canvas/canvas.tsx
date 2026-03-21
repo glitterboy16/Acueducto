@@ -15,7 +15,7 @@ export default function App() {
     <div style={{ width: '100vw', height: '100vh' }}>
       <Canvas>
         <ambientLight intensity={0.10} />
-        <pointLight position={[100, 10, 10]} />
+        <pointLight position={[10, 10, 10]} />
         <Box />
         <Stars />
         <OrbitControls /> {/* Permite mover la cámara con el ratón */}

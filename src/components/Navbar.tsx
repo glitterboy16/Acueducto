@@ -20,7 +20,7 @@ function Navbar({ showHeroTitle, onToggleHeroTitle }: NavbarProps) {
       <div className="glass-panel flex flex-col gap-4 px-4 py-4 sm:px-5 md:flex-row md:items-center md:justify-between">
         <div className="text-center md:text-left">
           <p className="text-[11px] uppercase tracking-[0.28em] text-white/70 sm:text-xs sm:tracking-[0.35em]">
-            Merida | Historia y diseno
+            Ies Albarregas
           </p>
           <p className="mt-1 text-base font-semibold text-white/90 sm:text-lg">
             Acueducto de los Milagros
